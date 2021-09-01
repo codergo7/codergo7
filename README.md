@@ -1,6 +1,6 @@
 # Hi, I am Gokhan! 
 
-## I am a Oracle Certified Java Developer && FullStack Developer
+## I am a Oracle Certified Java Developer
 
 ### My portfolio website (click) => https://codergo7.github.io/portfolio_go/
 
