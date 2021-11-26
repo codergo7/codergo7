@@ -2,7 +2,7 @@
 
 ## I am an Oracle Certified Java Developer
 
-### My portfolio website (click) => https://github.com/codergo7/my-portfolio
+### My portfolio website (click) => https://codergo7.github.io/my-portfolio/
 
 ### 🔭 I’m currently working on Fooda (Open-Source Project) => https://github.com/intec-brussel-vzw
 
