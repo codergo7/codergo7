@@ -30,7 +30,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=codergo7&theme=dark" >
 
 ## <summary>:bulb:  Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergo7&layout=compact&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codergo7&layout=compact&theme=dark">
 
 
 
