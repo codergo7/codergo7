@@ -4,9 +4,6 @@
 
 ### My portfolio website (click) => https://codergo7.github.io/my-portfolio/
 
-### 🔭 I’m currently working on Fooda (Open-Source Project) => https://github.com/intec-brussel-vzw
-
-
 ![](https://komarev.com/ghpvc/?username=codergo7)
 
 ### Languages and Tools:
